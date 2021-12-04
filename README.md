@@ -24,7 +24,7 @@ In trying to improve tp and reduce fn, the Gradient Boost did best, but the Logi
 As I mentioned above, the features could definitely be improved. Below is the confusion matrix from my Gradient Boost model on the test set, and the feature importance.
 The results aren't great, but this was certainly a good learning experience. 
 
-![alt text](https://github.com/calvinscottforbes/capital-one-fraud-detection/blob/main/gb_confusion_matrix.jpg?raw=true)
+![alt text](https://github.com/calvinscottforbes/capital-one-fraud-detection/blob/main/gb_confusion_matrix.png?raw=true)
 
-![alt text](https://github.com/calvinscottforbes/capital-one-fraud-detection/blob/main/gb_feature_importance.jpg?raw=true)
+![alt text](https://github.com/calvinscottforbes/capital-one-fraud-detection/blob/main/gb_feature_importance.png?raw=true)
 
